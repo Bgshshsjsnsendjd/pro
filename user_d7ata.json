@@ -1,0 +1,37 @@
+{
+    "7141054143": {
+        "templates": {},
+        "known_chats": {},
+        "broadcasting": {
+            "active": false,
+            "step": "template_pattern",
+            "templates": [
+                {
+                    "text": "🇸🇦"
+                }
+            ],
+            "interval": 300,
+            "groups": [
+                "channel:2751237001"
+            ],
+            "last_msg_id": []
+        },
+        "broadcast_status": {
+            "is_broadcasting": true,
+            "broadcast_type": "groups",
+            "sleep_time": 300,
+            "template_pattern": "1",
+            "groups": [
+                "channel:2751237001"
+            ],
+            "templates": [
+                {
+                    "text": "🇸🇦"
+                }
+            ],
+            "group_rotation": {
+                "2751237001": 44
+            }
+        }
+    }
+}
