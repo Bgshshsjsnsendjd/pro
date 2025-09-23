@@ -3,18 +3,14 @@
         "templates": {},
         "known_chats": {},
         "broadcasting": {
-            "active": false,
-            "step": "template_pattern",
-            "templates": [
-                {
-                    "text": "🇸🇦"
-                }
-            ],
-            "interval": 300,
-            "groups": [
-                "channel:2751237001"
-            ],
-            "last_msg_id": []
+            "active": true,
+            "step": "template_1",
+            "templates": [],
+            "interval": null,
+            "groups": [],
+            "last_msg_id": [
+                329105
+            ]
         },
         "broadcast_status": {
             "is_broadcasting": true,
